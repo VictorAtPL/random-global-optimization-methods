@@ -1,0 +1,5 @@
+build/
+*.csv
+*.json
+.gradle
+out
